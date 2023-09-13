@@ -14,13 +14,13 @@ namespace ISprint8Task4V0
 		{
 			// Init
 			ISprint0Task8V0* rezult = new Service8V0();
-			int a = 445;
+			int a = 123;
 			int contr;
 
 			contr = rezult->Control( a);
 
 			// Valid
-			Assert::AreEqual(80, contr);
+			Assert::AreEqual(6, contr);
 		}
 	};
 }

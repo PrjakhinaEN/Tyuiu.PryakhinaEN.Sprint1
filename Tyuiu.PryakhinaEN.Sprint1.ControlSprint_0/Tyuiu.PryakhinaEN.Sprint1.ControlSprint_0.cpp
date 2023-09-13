@@ -7,7 +7,7 @@ int main()
 {
     ISprint0Task8V0* rezult = new Service8V0();
     std::cout << "PetrovCA\n";
-    std::cout << "b*c*d:  " << "\n";
+    std::cout << "b*c*d=  " << "\n";
 
     std::cout << "Rezult = " << rezult->Control(442);
     std::cout << std::endl;
