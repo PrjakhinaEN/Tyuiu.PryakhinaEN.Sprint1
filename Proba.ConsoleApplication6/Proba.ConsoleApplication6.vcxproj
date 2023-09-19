@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{efa12ebc-d0bf-48fe-b308-725294c4427a}</ProjectGuid>
-    <RootNamespace>TyuiuPryakhinaENSprint1Task4V0</RootNamespace>
+    <ProjectGuid>{445f754a-1d71-44f5-9a83-ca1dd0b0b5b0}</ProjectGuid>
+    <RootNamespace>ProbaConsoleApplication6</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,10 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Tyuiu.PryakhinaEN.Sprint1.Task4.V0.cpp" />
+    <ClCompile Include="Proba.ConsoleApplication6.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\Tyuiu.Cours1\Tyuiu.Cours1.vcxproj" />
+    <None Include="..\..\Tyuiu.Cours.cpp\Tyuiu.Cours.cpp.vcxproj" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
